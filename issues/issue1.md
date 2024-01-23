@@ -6,8 +6,8 @@ Este ejercicio tiene como objetivo aplicar estilos básicos al documento HTML de
 
 ## Tareas:
 
-- [ ] Configurar el Contenedor General (#contenedor):
-  - [ ] Establecer el color de fondo a `#fff8f0` (un tono suave de crema).
+- [x] Configurar el Contenedor General (#contenedor):
+  - [x] Establecer el color de fondo a `#fff8f0` (un tono suave de crema).
   - [x] Definir el tipo de letra como `'Times New Roman', serif`.
   - [x] Ajustar el tamaño del texto a `16px`.
 
