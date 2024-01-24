@@ -1,3 +1,8 @@
+*{
+    margin: 0cm;
+    padding: 0cm;
+}
+
 #contenedor {
     background-color: #fff8f0;
     font-family: 'Times New Roman', Times, serif;
@@ -22,5 +27,13 @@ div.menu ul li a:hover {
     font-size: 18px;
     transition: 0.3s;
     opacity: 0.7;
+
+}
+
+div.contenido{
+    background-color: #fff8f0;
+    color: #5a3e36;
+    font: small-caps 150%/150% serif;
+    font-size: 18px;
 
 }

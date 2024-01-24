@@ -19,18 +19,18 @@ Este ejercicio tiene como objetivo aplicar estilos básicos al documento HTML de
   - [x] Alinear el texto al centro.
   - [x] Ajustar la altura al tamaño de la imagen de cabecera.
 
-- [ ] Estilizar el Menú de Navegación (div.menu ul li a):
+- [x] Estilizar el Menú de Navegación (div.menu ul li a):
   - [x] Fijar el color de fondo en `#a77e58` (tono marrón claro).
   - [x] Definir el color del texto como `#ffffff` (blanco).
   - [x] Usar el tipo de letra `'Helvetica', sans-serif`.
   - [x] Establecer el tamaño del texto en `18px`.
   - [x] Agregar una transición suave al cambiar el color al pasar el mouse a `#8b6f47`.
 
-- [ ] Dar estilo al Contenido Principal (div.contenido):
-  - [ ] Configurar el color de fondo a `#fff8f0`.
-  - [ ] Definir el color del texto como `#5a3e36`.
-  - [ ] Seleccionar el tipo de letra `'Georgia', serif`.
-  - [ ] Establecer el tamaño del texto a `18px`.
+- [x] Dar estilo al Contenido Principal (div.contenido):
+  - [x] Configurar el color de fondo a `#fff8f0`.
+  - [x] Definir el color del texto como `#5a3e36`.
+  - [x] Seleccionar el tipo de letra `'Georgia', serif`.
+  - [x] Establecer el tamaño del texto a `18px`.
 
 - [ ] Personalizar la Barra Lateral (div.sidebar):
   - [ ] Establecer el color de fondo en `#ecdcc6` (un tono crema más claro).
