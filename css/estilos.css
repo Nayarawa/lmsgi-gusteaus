@@ -3,3 +3,14 @@ background-color:#fff8f0;
 font-family: 'Times New Roman', Times, serif;
 font-size: 16px;
 }
+
+div.encabezado{
+    padding: 10%;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("../imgs/guesteaus.png");
+    background-position: center;
+    font-size: 36px;
+    font: small-caps 300%/200% serif;
+    text-align: center;
+    color:white
+}

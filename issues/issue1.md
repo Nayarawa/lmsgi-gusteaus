@@ -11,13 +11,13 @@ Este ejercicio tiene como objetivo aplicar estilos básicos al documento HTML de
   - [x] Definir el tipo de letra como `'Times New Roman', serif`.
   - [x] Ajustar el tamaño del texto a `16px`.
 
-- [ ] Diseñar el Encabezado (div.encabezado):
-  - [ ] Utilizar la imagen de cabecera del restaurante como fondo.
-  - [ ] Configurar el color del texto a `#5a3e36` (marrón oscuro).
-  - [ ] Seleccionar el tipo de letra `'Georgia', serif`.
-  - [ ] Establecer el tamaño del texto a `36px`.
-  - [ ] Alinear el texto al centro.
-  - [ ] Ajustar la altura al tamaño de la imagen de cabecera.
+- [x] Diseñar el Encabezado (div.encabezado):
+  - [x] Utilizar la imagen de cabecera del restaurante como fondo.
+  - [x] Configurar el color del texto a `#5a3e36` (marrón oscuro).
+  - [x] Seleccionar el tipo de letra `'Georgia', serif`.
+  - [x] Establecer el tamaño del texto a `36px`.
+  - [x] Alinear el texto al centro.
+  - [x] Ajustar la altura al tamaño de la imagen de cabecera.
 
 - [ ] Estilizar el Menú de Navegación (div.menu ul li a):
   - [ ] Fijar el color de fondo en `#a77e58` (tono marrón claro).
