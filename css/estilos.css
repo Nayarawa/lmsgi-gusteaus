@@ -1,16 +1,26 @@
-#contenedor{
-background-color:#fff8f0;
-font-family: 'Times New Roman', Times, serif;
-font-size: 16px;
+#contenedor {
+    background-color: #fff8f0;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
 }
 
-div.encabezado{
+div.encabezado {
     padding: 10%;
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("../imgs/guesteaus.png");
+        url("../imgs/guesteaus.png");
     background-position: center;
     font-size: 36px;
     font: small-caps 300%/200% serif;
     text-align: center;
-    color:white
+    color: white
+}
+
+div.menu ul li a:hover {
+    background-color: #a77e58;
+    color: #ffffff;
+    font: small-caps 100%/100% serif;
+    font-size: 18px;
+    transition: 0.3s;
+    opacity: 0.7;
+
 }
