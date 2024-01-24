@@ -33,15 +33,15 @@ Este ejercicio tiene como objetivo aplicar estilos básicos al documento HTML de
   - [x] Establecer el tamaño del texto a `18px`.
 
 - [ ] Personalizar la Barra Lateral (div.sidebar):
-  - [ ] Establecer el color de fondo en `#ecdcc6` (un tono crema más claro).
-  - [ ] Definir el color del texto como `#5a3e36`.
-  - [ ] Utilizar el tipo de letra `'Georgia', serif`.
-  - [ ] Establecer el tamaño del texto en `18px`.
+  - [x] Establecer el color de fondo en `#ecdcc6` (un tono crema más claro).
+  - [x] Definir el color del texto como `#5a3e36`.
+  - [x] Utilizar el tipo de letra `'Georgia', serif`.
+  - [x] Establecer el tamaño del texto en `18px`.
 
 - [ ] Diseñar el Pie de Página (div.pie):
-  - [ ] Fijar el color de fondo en `#a77e58`.
-  - [ ] Configurar el color del texto como `#ffffff`.
-  - [ ] Seleccionar el tipo de letra `'Helvetica', sans-serif`.
+  - [x] Fijar el color de fondo en `#a77e58`.
+  - [x] Configurar el color del texto como `#ffffff`.
+  - [x] Seleccionar el tipo de letra `'Helvetica', sans-serif`.
   - [ ] Establecer el tamaño del texto en `16px`.
   - [ ] Alinear el texto al centro.
 

@@ -37,3 +37,19 @@ div.contenido{
     font-size: 18px;
 
 }
+
+div.sidebar{
+    background-color: #ecdcc6;
+    color: #5a3e36;
+    font: small-caps 150%/150% serif;
+    font-size: 18px;
+
+}
+
+div.pie{
+background-color: #a77e58;
+color: #ffffff;
+font: small-caps 150%/150% serif;
+text-align: center;
+
+}
