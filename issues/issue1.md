@@ -42,8 +42,8 @@ Este ejercicio tiene como objetivo aplicar estilos básicos al documento HTML de
   - [x] Fijar el color de fondo en `#a77e58`.
   - [x] Configurar el color del texto como `#ffffff`.
   - [x] Seleccionar el tipo de letra `'Helvetica', sans-serif`.
-  - [ ] Establecer el tamaño del texto en `16px`.
-  - [ ] Alinear el texto al centro.
+  - [x] Establecer el tamaño del texto en `16px`.
+  - [x] Alinear el texto al centro.
 
 ## Instrucciones Adicionales:
 

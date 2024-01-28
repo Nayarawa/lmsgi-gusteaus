@@ -17,7 +17,8 @@ div.encabezado {
     font-size: 36px;
     font: small-caps 300%/200% serif;
     text-align: center;
-    color: white
+    color: white; 
+    
 }
 
 div.menu ul li a:hover {
@@ -47,9 +48,10 @@ div.sidebar{
 }
 
 div.pie{
-background-color: #a77e58;
-color: #ffffff;
+background-color: #5a3e36;
+color: #ecdcc6;
 font: small-caps 150%/150% serif;
 text-align: center;
+font-size: 16px;
 
 }
