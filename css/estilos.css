@@ -4,6 +4,7 @@
 }
 
 #contenedor {
+    position: fixed;
     background-color: #fff8f0;
     font-family: 'Times New Roman', Times, serif;
     font-size: 16px;
@@ -19,6 +20,11 @@ div.encabezado {
     text-align: center;
     color: white; 
     
+}
+
+.superior{
+    position: absolute;
+    height: 15%;  
 }
 
 div.menu ul li a:hover {

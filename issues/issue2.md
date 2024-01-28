@@ -8,7 +8,7 @@ El objetivo de este ejercicio es crear un encabezado y un pie de página distint
 
 - [x] Encabezado (div.encabezado):
   - [x] Utilizar la imagen de cabecera generada como fondo.
-  - [] Añadir un logo ficticio de Gusteau's al lado izquierdo del encabezado (si los estudiantes tienen habilidades de diseño, pueden crear uno simple).
+  - [x] Añadir un logo ficticio de Gusteau's al lado izquierdo del encabezado (si los estudiantes tienen habilidades de diseño, pueden crear uno simple).
   - [x] Colocar el título del restaurante: "Restaurante Gusteau's" centrado en el encabezado.
   - [x] Configurar el color del texto en #5a3e36 (marrón oscuro).
   - [x] Seleccionar el tipo de letra 'Georgia', serif.
@@ -17,7 +17,7 @@ El objetivo de este ejercicio es crear un encabezado y un pie de página distint
 - [ ] Pie de Página (div.pie):
   - [x] Configurar el color de fondo en #5a3e36 (marrón oscuro).
   - [x] Definir el color del texto como #ecdcc6 (crema claro).
-  - [ ] Agregar enlaces de utilidad como "Sobre Nosotros", "Menú", "Contacto", etc.
+  - [x] Agregar enlaces de utilidad como "Sobre Nosotros", "Menú", "Contacto", etc.
   - [x] Utilizar el tipo de letra 'Helvetica', sans-serif.
   - [x] Establecer el tamaño del texto en 16px.
   - [ ] Alinear los enlaces horizontalmente con un espaciado adecuado.
