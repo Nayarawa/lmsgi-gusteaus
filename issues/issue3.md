@@ -26,7 +26,7 @@ El objetivo de este ejercicio es crear un menú de navegación estético y funci
 
 ### Responsividad:
 
-- [ ] Asegurarse de que el menú sea responsivo y se adapte a diferentes tamaños de pantalla, considerando un diseño de menú tipo "hamburguesa" para dispositivos móviles.
+- [x] Asegurarse de que el menú sea responsivo y se adapte a diferentes tamaños de pantalla, considerando un diseño de menú tipo "hamburguesa" para dispositivos móviles.
 
 ## Instrucciones Adicionales:
 

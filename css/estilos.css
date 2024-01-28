@@ -3,11 +3,13 @@
     padding: 0cm;
 }
 
-#contenedor {
+#contenedor:after {
     background-color: #fff8f0;
     font-family: 'Times New Roman', Times, serif;
     font-size: 16px;
+    
 }
+
 
 div.encabezado {
     padding: 10%;
@@ -20,6 +22,12 @@ div.encabezado {
     color: white;
 }
 
+div.menu {
+    background-color: #ecdcc6;
+    text-align:center;
+    color: #ffffff;
+}
+
 div.menu ul li a:hover {   
     transition: 0.3s;
     opacity: 0.7;
@@ -29,7 +37,6 @@ div.menu ul li a:hover {
 div.menu ul li{
     display: inline;
     background-color: #a77e58;
-    color: #ffffff;
     font: small-caps 100%/100% serif;
     font-size: 18px;
 
@@ -40,6 +47,10 @@ div.contenido{
     color: #5a3e36;
     font: small-caps 150%/150% serif;
     font-size: 18px;
+    float: left;
+    width: 70%;
+    padding: 10%;
+    margin: 5%;
 
 }
 
@@ -48,18 +59,9 @@ div.sidebar{
     color: #5a3e36;
     font: small-caps 150%/150% serif;
     font-size: 18px;
-
+    float: right;
+    width: 30%;
 }
-
-div.pie{
-    background-color: #5a3e36;
-    color: #ecdcc6;
-    font: small-caps 150%/150% serif;
-    text-align: center;
-    font-size: 16px;
-    
-    }
-
 
 .superior{
     position: absolute;
@@ -81,3 +83,13 @@ div.enlaces ul li{
     display: inline;
 
     }
+div.pie{
+    background-color: #5a3e36;
+    color: #ecdcc6;
+    font: small-caps 150%/150% serif;
+    text-align: center;
+    font-size: 16px;
+    position:static;
+
+    }
+
