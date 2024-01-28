@@ -17,16 +17,21 @@ div.encabezado {
     font-size: 36px;
     font: small-caps 300%/200% serif;
     text-align: center;
-    color: white
+    color: white;
 }
 
-div.menu ul li a:hover {
+div.menu ul li a:hover {   
+    transition: 0.3s;
+    opacity: 0.7;
+
+}
+
+div.menu ul li{
+    display: inline;
     background-color: #a77e58;
     color: #ffffff;
     font: small-caps 100%/100% serif;
     font-size: 18px;
-    transition: 0.3s;
-    opacity: 0.7;
 
 }
 
@@ -47,9 +52,32 @@ div.sidebar{
 }
 
 div.pie{
-background-color: #a77e58;
-color: #ffffff;
-font: small-caps 150%/150% serif;
-text-align: center;
+    background-color: #5a3e36;
+    color: #ecdcc6;
+    font: small-caps 150%/150% serif;
+    text-align: center;
+    font-size: 16px;
+    
+    }
 
+
+.superior{
+    position: absolute;
+    height: 15%;  
 }
+div.enlaces{
+    background-color: #5a3e36;
+    color: #ecdcc6;
+    font: small-caps 150%/150% serif;
+    text-align: center;
+}
+
+div.enlaces ul li{
+    background-color: #5a3e36;
+    color: #ecdcc6;
+    font: small-caps 150%/150% serif;
+    text-align: center;
+    font-size: 16px;
+    display: inline;
+
+    }
