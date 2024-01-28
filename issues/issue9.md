@@ -64,8 +64,8 @@ El objetivo es Desarrollar una página web para el "Menú Estrella" del restaura
 
 ### Estilización del menú
 
-- [ ] Aplicar estilos CSS para crear un diseño visualmente atractivo y coherente con el tema del restaurante.
-- [ ] Incluir estilos para encabezados, listas de platos y elementos individuales del menú.
+- [x] Aplicar estilos CSS para crear un diseño visualmente atractivo y coherente con el tema del restaurante.
+- [x] Incluir estilos para encabezados, listas de platos y elementos individuales del menú.
 
 ### Manejo de Alérgenos
 

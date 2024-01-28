@@ -91,3 +91,30 @@ div.pie{
 
     }
 
+
+header{
+    padding: 10%;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+        url("../imgs/guesteaus.png");
+    background-position: center;
+    font: small-caps 100/200% serif;
+    text-align: center;
+    color: white;
+}
+
+section{
+    background-color: #fff8f0;
+    color: #5a3e36;
+    font: small-caps 150%/150% serif;
+    font-size: 18px;
+    float: left;
+    width: 70%;
+    padding: 10%;
+    margin: 5%;
+}
+
+
+/*Aquí he tenido un problema, no sé como llamar exactamente
+a data alérgenos, por lo que no puedo hacerlo, a ser posible
+me gustaría que me enseñes a llamarlos porque voy un poco perdida
+en ese tema. De resto supongo que lo dejo así.*/
