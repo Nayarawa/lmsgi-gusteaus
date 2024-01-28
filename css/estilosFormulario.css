@@ -1,0 +1,31 @@
+*{
+    margin: 0cm;
+    padding: 0cm;
+    background-color: fff8f0;
+}
+
+form{
+
+    border: 1px;
+    color: #a77e58;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+button{
+    background-color: #5a3e36;
+    color: #ffffff;
+    padding: 10px;
+    border-radius: 5px;
+
+}
+
+button:hover{
+color: #a77e58;
+
+}
+
+label{
+    font-size: 16px;
+    display: block; 
+}
