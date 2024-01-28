@@ -23,7 +23,7 @@ div.encabezado {
 div.menu ul li a:hover {   
     transition: 0.3s;
     opacity: 0.7;
-
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 div.menu ul li{
